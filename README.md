@@ -101,11 +101,12 @@ Built to save time, reduce errors, and support rapid prototyping.
 
 You can include screenshots like these in an `images/` folder in the repo:
 
-| Step               | Screenshot                                               |
-| ------------------ | -------------------------------------------------------- |
-| Open Scripts Panel | ![open_scripts_button](images/open_scripts_button.png)   |
-| Add Script Folder  | ![add_script](images/add_script.png)                     |
-| Run the Script     | ![run_export_script](images/run_export_script.png)       |
+| Step                        | Screenshot                                     |
+|-----------------------------|------------------------------------------------|
+| Open Scripts Panel          | ![open_scripts_button](images/open_scripts_button.png) |
+| Add Script Folder           | ![add_script](images/add_script.png)          |
+| Select Script Folder        | ![select_script_folder](images/select_script_folder.png) |
+| Run the Script              | ![run_export_script](images/run_export_script.png) |
 
 > Replace with your actual images if you'd like.
 
