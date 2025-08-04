@@ -1,5 +1,7 @@
 # Export All Components as STL – Fusion 360 Script
 
+> 🇯🇵 日本語版はこちら → README_ja.md
+
 This is a Python script for Autodesk Fusion 360 that exports **all components in the active design** as individual `.stl` files.
 
 > 💡 I created this add-in because I had **124 components** in my project and manually exporting each one as an STL was extremely tedious.  
@@ -22,9 +24,9 @@ This is a Python script for Autodesk Fusion 360 that exports **all components in
 ```plaintext
 fusion360-export-all-stl/
 ├── ExportAllSTLs.py      ← Main script
-├── README.md             ← This documentation
-└── LICENSE               ← MIT License (recommended)
-```
+├── README.md             ← English documentation
+├── README_ja.md          ← Japanese documentation
+└── LICENSE               ← MIT License
 
 ---
 
