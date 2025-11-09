@@ -73,17 +73,6 @@ fusion360-export-all-stl/
 - コンポーネントのフィルタリング
 - タイムライン順のファイル名などの機能追加
 
-プルリクエスト歓迎！
-
----
-
-## 📷 スクリーンショット
-
-| ステップ             | スクリーンショット                                 |
-|----------------------|----------------------------------------------------|
-| スクリプトパネルを開く | ![open_scripts_button](images/open_scripts_button.png) |
-| スクリプトを追加      | ![add_script](images/add_script.png)                |
-| スクリプト実行        | ![run_export_script](images/run_export_script.png)   |
 
 ---
 
