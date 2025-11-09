@@ -1,5 +1,7 @@
 # Export All Components as STL – Fusion 360 スクリプト（日本語）
 
+EN: English version → [README.md](./README.md)
+
 このPythonスクリプトは、Autodesk Fusion 360上で **現在のデザイン内のすべてのコンポーネントを個別のSTLファイルとして自動でエクスポート**します。
 
 > 💡 このアドインは、私のプロジェクトにおいて124個のコンポーネントを一つずつ手作業でSTL変換するのが非常に大変だったため作成しました。  
