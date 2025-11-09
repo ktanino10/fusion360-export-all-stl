@@ -1,6 +1,6 @@
 # Export All Components as STL – Fusion 360 Script
 
-> 🇯🇵 日本語版はこちら → README_ja.md
+> 🇯🇵 日本語版はこちら → [README_ja.md](./README_ja.md)
 
 This is a Python script for Autodesk Fusion 360 that exports **all components in the active design** as individual `.stl` files.
 
